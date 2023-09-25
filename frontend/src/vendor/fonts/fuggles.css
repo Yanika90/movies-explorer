@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Fuggles'; /* Имя шрифта */
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url("./Fuggles-Regular.woff") format("woff"); 
+   }
+  
