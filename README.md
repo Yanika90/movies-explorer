@@ -17,3 +17,11 @@
 IP 51.250.99.170
 
 Frontend https://movies.yanika90.nomoredomainsicu.ru
+
+## Ссылка на пул-реквест
+
+https://github.com/Yanika90/movies-explorer/pull/1
+
+## Ссылка на репозиторий
+
+https://github.com/Yanika90/movies-explorer
