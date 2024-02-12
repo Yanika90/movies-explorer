@@ -40,14 +40,14 @@ https://www.figma.com/file/6FMWkB94wE7KTkcCgUXtnC/light-1?type=design&node-id=1%
 **Инструкция по установке:**
 
 Запускаем бекенд
-1. Клонировать репозиторий: `https://github.com/Yanika90/movies-explorer-api.git`
+1. Клонировать репозиторий: `git@github.com:Yanika90/movies-explorer.git`
 2. Установить зависимости: `npm ci`
 3. Запустить приложение в режиме разработки:
    - `npm run start` — запускает сервер
    - `npm run dev` — запускает сервер с hot-reload
      
 Запускаем фронтенд
-1. Клонировать репозиторий `git@github.com:Yanika90/movies-explorer-frontend.git`
+1. Клонировать репозиторий `git@github.com:Yanika90/movies-explorer.git`
 2. Перейти в локальную папку с проектом `cd и указать путь`
 3. Уствновить зависимости `npm i`
 4. Запустить сборку `npm start`
