@@ -53,7 +53,7 @@ https://www.figma.com/file/6FMWkB94wE7KTkcCgUXtnC/light-1?type=design&node-id=1%
 4. Запустить сборку `npm start`
 5. Открыть `http://localhost:3000` в окне браузера.
 
----
+<!-- ---
 
 ## Ccылка на фронтенд и бекэнд
 
@@ -62,4 +62,4 @@ IP 51.250.99.170
 Frontend https://movies.yanika90.nomoredomainsicu.ru
 
 Backend https://api.movies.yanika90.nomoredomainsicu.ru
-
+ -->
